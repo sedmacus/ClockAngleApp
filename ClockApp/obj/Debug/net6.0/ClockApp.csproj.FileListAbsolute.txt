@@ -1,0 +1,15 @@
+C:\Users\Asus_pc\Desktop\ClockApp\bin\Debug\net6.0\ClockApp.exe
+C:\Users\Asus_pc\Desktop\ClockApp\bin\Debug\net6.0\ClockApp.deps.json
+C:\Users\Asus_pc\Desktop\ClockApp\bin\Debug\net6.0\ClockApp.runtimeconfig.json
+C:\Users\Asus_pc\Desktop\ClockApp\bin\Debug\net6.0\ClockApp.dll
+C:\Users\Asus_pc\Desktop\ClockApp\bin\Debug\net6.0\ClockApp.pdb
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.csproj.AssemblyReference.cache
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.AssemblyInfoInputs.cache
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.AssemblyInfo.cs
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.dll
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\refint\ClockApp.dll
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.pdb
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ClockApp.genruntimeconfig.cache
+C:\Users\Asus_pc\Desktop\ClockApp\obj\Debug\net6.0\ref\ClockApp.dll
